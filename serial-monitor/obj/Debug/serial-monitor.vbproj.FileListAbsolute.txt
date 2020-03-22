@@ -1,0 +1,12 @@
+C:\Users\qwerty\Documents\serial-monitor\bin\Debug\serial-monitor.exe.config
+C:\Users\qwerty\Documents\serial-monitor\bin\Debug\serial-monitor.exe
+C:\Users\qwerty\Documents\serial-monitor\bin\Debug\serial-monitor.pdb
+C:\Users\qwerty\Documents\serial-monitor\bin\Debug\serial-monitor.xml
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.vbprojAssemblyReference.cache
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial_monitor.mainForm.resources
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial_monitor.Resources.resources
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.vbproj.GenerateResource.cache
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.vbproj.CoreCompileInputs.cache
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.exe
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.xml
+C:\Users\qwerty\Documents\serial-monitor\obj\Debug\serial-monitor.pdb
